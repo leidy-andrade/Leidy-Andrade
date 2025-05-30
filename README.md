@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou a Leidy Andrade</h1>
 
-<!--
-**leidy-andrade/Leidy-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👩‍💻 Cientista de Dados em formação | 📊 Power BI | 🐍 Python | 🗃️ SQL<br>
+  🎯 Em transição de carreira e apaixonada por transformar dados em decisões estratégicas.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente curso **Ciência de Dados pela UFMS** e estou me especializando em ferramentas como **Power BI, Python e SQL**. Tenho experiência anterior na área administrativa e agora estou unindo esse conhecimento com análise de dados para gerar insights relevantes e impactantes.
+
+🎓 Estudando:
+- Ciência de Dados (graduação)
+- Bootcamp de Análise de Dados com foco em mercado
+- Curso de SQL para análise de dados (básico ao avançado) – Udemy
+
+💡 Interesses:
+- Visualização de dados
+- Dashboards interativos
+- Previsões e modelagem estatística
+- Storytelling com dados
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [📈 Previsão de Vendas](https://github.com/leidy-andrade/previsao-vendas-comercio) | Projeto de previsão de vendas usando Prophet para análise de séries temporais. | Python, Pandas, Prophet |
+
+---
+
+## 📬 Como me encontrar
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/leidiane-andrade/) 
+- ✉️ devgirl.leidy@gmail.com
+
+---
+
+<p align="center">Obrigada por visitar meu perfil! 🚀</p>
