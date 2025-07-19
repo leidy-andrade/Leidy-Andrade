@@ -38,7 +38,7 @@ Atualmente curso **Ciência de Dados pela UFMS** e estou me especializando em fe
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📈 Previsão de Vendas](https://github.com/leidy-andrade/previsao-vendas-comercio) | Projeto de previsão de vendas usando Prophet para análise de séries temporais. | Python, Pandas, Prophet |
+| [📈 Análise de Vendas – Projeto Power BI + Figma](https://github.com/leidy-andrade/analise-vendas-parabrisas) | Este projeto apresenta uma análise interativa de vendas utilizando o **Power BI**, com apoio de **design visual criado no Figma**. 
 
 ---
 
