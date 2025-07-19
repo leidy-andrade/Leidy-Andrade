@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou a Leidy Andrade</h1>
 
 <p align="center">
-  👩‍💻 Cientista de Dados em formação | 📊 Power BI | 🐍 Python | 🗃️ SQL<br>
+  👩‍💻 Analista de Dados | 📊 Power BI | 🐍 Python | 🗃️ SQL<br>
   🎯 Em transição de carreira e apaixonada por transformar dados em decisões estratégicas.
 </p>
 
