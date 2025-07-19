@@ -38,7 +38,7 @@ Atualmente curso **Ciência de Dados pela UFMS** e estou me especializando em fe
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📈 Análise de Vendas – Projeto Power BI + Figma](https://github.com/leidy-andrade/analise-vendas-parabrisas) | Este projeto apresenta uma análise interativa de vendas utilizando o **Power BI**, com apoio de **design visual criado no Figma**. 
+| [📈 Análise de Vendas – Projeto Power BI + Figma](https://github.com/leidy-andrade/analise-vendas-parabrisas) | Este projeto apresenta uma análise interativa de vendas utilizando o **Power BI**, com apoio de **design visual criado no Figma**. | Python, Power BI, Figma
 
 ---
 
