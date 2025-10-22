@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou a Leidy Andrade</h1>
+<h1 align="center">Olá! 👋 Eu sou a Leidiane Andrade</h1>
 
 <p align="center">
   👩‍💻 Analista de Dados | 📊 Power BI | 🐍 Python | 🗃️ SQL<br>
