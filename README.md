@@ -39,6 +39,7 @@ Atualmente curso **Ciência de Dados pela UFMS** e estou me especializando em fe
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📈 Análise de Vendas – Projeto Power BI + Figma](https://github.com/leidy-andrade/analise-vendas-parabrisas) | Este projeto apresenta uma análise interativa de vendas utilizando o **Power BI**, com apoio de **design visual criado no Figma**. | Python, Power BI, Figma
+| [🍺 MaltMetrics – Predição e Análise de Avaliações de Cervejas](https://github.com/leidianeandrade/MaltMetrics-ML) | Projeto que utiliza **aprendizado de máquina supervisionado e não supervisionado** para prever avaliações de cervejas e agrupar cervejas semelhantes. | Python, Pandas, Scikit-Learn, XGBoost, Matplotlib, Seaborn |
 
 ---
 
