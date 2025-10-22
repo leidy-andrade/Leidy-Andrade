@@ -7,8 +7,7 @@
 
 ---
 
-## 🚀 Sobre mim
-
+## 
 Atualmente curso **Ciência de Dados pela UFMS** e estou me especializando em ferramentas como **Power BI, Python e SQL**. Tenho experiência anterior na área administrativa e agora estou unindo esse conhecimento com análise de dados para gerar insights relevantes e impactantes.
 
 🎓 Estudando:
@@ -17,11 +16,10 @@ Atualmente curso **Ciência de Dados pela UFMS** e estou me especializando em fe
 - Curso de SQL para análise de dados (básico ao avançado) – Udemy
 
 💡 Interesses:
-- Visualização de dados
-- Dashboards interativos
-- Previsões e modelagem estatística
-- Storytelling com dados
-
+- Engenharia e Arquitetura de Dados
+- Pipelines de ETL com Python e Spark
+- Painéis Analíticos (Power Bi, Looker Studio)
+- Integração de dados com automação de negócios
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
